@@ -1,6 +1,6 @@
 ### Hi there, I am a self-taught frontEnd web developer.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on something cool 😉;
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: [Facebook - @andrewDev](https://www.facebook.com/profile.php?id=100013643197204)
 
