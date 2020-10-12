@@ -7,5 +7,5 @@
 
 <div style="display: flex !important; vertical-align: baseline;">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewDev451&show_icons=true&theme=radical" />
-  <img width="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewDev451&show_icons=true&theme=radical" />
+  <img width="286" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewDev451&show_icons=true&theme=radical" />
 </div>
