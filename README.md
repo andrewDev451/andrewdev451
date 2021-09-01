@@ -1,7 +1,6 @@
-### Hi there, I am a self-taught frontEnd web developer.
+### Hi there! 
 
 - 🔭 I’m currently working on something cool 😉;
-- 🌱 [My Website](https://andrewdev451.github.io/Portfolio/)
 - 📫 How to reach me: [Facebook - @andrewDev](https://www.facebook.com/profile.php?id=100013643197204)
 
 <strong><p>Languages and Tools:</p></strong> 
